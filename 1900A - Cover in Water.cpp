@@ -1,6 +1,6 @@
 // 1900A - Cover in Water
 //  Codeforces Round 911 (Div. 2), problem: (A) Cover in Water, Accepted, 
-
+// https://codeforces.com/problemset/problem/1900/A
 #include <iostream>
 #include <vector>
 using namespace std;
